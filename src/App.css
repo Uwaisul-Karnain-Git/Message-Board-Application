@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #5d40f0;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 14px;
+  margin: 0 100px 10px;
+  padding: 5px;
+  width: 60px;
+  height: 30px;
+}
+
+.btn-reply {
+  cursor: pointer;
+  background-color: #678fe6;
+  box-shadow: var(--box-shadow);
+  color: #526488;
+  border: 0;
+  display: block;
+  font-size: 14px;
+  margin: 0 20px 0 0;
+  padding: 2px;
+  width: 50px;
+  height: 30px;
+}
+
+.btn-reply-active {
+  cursor: pointer;
+  background-color: #1442a0;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 12px;
+  margin: 0 20px 0 0;
+  padding: 3px;
+  width: 50px;
+  height: 30px;
+}
+
+.btn-cancel {
+  cursor: pointer;
+  background-color: #c1d858;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 12px;
+  padding: 3px;
+  width: 50px;
+  height: 30px;
+}
+
+.btn-panel {
+  margin: 0 0 0 169px;
+}
+
+.comments-div {
+  margin: 0 0 0 15px;
+}
+
+.comment-text-area {
+  margin: 0 0 0 40px;
+  width: 250px;
+  height: 70px;
+}
+
+.comment-user-regular {
+  margin: 0 0 0 40px;
+}
+
+.comment-user-blue {  
+  color: #2414f8;
+}
+
+.comment-id {  
+  color: #ec8b5d;
+}
+
+
+
+
+
